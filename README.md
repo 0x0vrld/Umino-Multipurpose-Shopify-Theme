@@ -1,6 +1,6 @@
 # Umino - Multipurpose Shopify Theme by Next_Sky
 
-![Umino - Multipurpose Shopify Theme](https://github.com/user-attachments/assets/03bd9401-6236-4b1b-9098-99edc2991868)
+![Umino - Multipurpose Shopify Theme](https://github.com/user-attachments/assets/cf80d509-fd0e-4303-baf3-c45c9165c488)
 
 **Umino - Multipurpose Shopify Theme**  
 - **Total Downloads:** 2,590+
@@ -43,17 +43,17 @@ The block it relies on:
 
 1. Download the blank theme from this repository or use any blank/other theme's template you want.
 2. Set the theme info block from above in **settings_scheme.json** file and save it.
-![settings_scheme.json](https://github.com/user-attachments/assets/73518b81-f40a-458e-9780-d5720070a0b8)
+![settings_scheme.json](https://github.com/user-attachments/assets/f34660fe-58c5-4190-b9e5-9f3788db7314)
 3. Go to the Shopify Admin Dashboard.
 4. Navigate to **Online Store > Themes**.
 5. Click **Upload Theme** and choose the Umino `.zip` file.
 6. Click **Upload** and wait for the upload to complete.
 7. After uploading, go to this link to download the **[NS - Discount in Cart](https://apps.shopify.com/discount-master-pro)** app and install it.
 8. From the settings option of the app, select the theme which is uploaded for downloading **Umino** theme. In my case, it's name is **umino**.
-![NS - Discount in Cart settings](https://github.com/user-attachments/assets/2ddb1b2b-2205-4a7c-af92-0447f552c756)
+![NS - Discount in Cart settings](https://github.com/user-attachments/assets/8ca6dda3-7a02-49ea-a3fa-dc2c8d5c1be8)
 9.  After saving it, two more options will appear. <br>
 ![NS - Discount in Cart extra settings](https://github.com/user-attachments/assets/bc6c1708-31cf-4372-ab03-890d22ada0da)
-10. Go to **Nextsky themes** and lots of option will be seen. From there, demos, metaobjets, theme's default contents, etc can be downloaded.
+10. Go to **Nextsky themes** and lots of option will be seen. From there, demos, metaobjects, theme's default contents, etc can be downloaded.
 ![Theme's options](https://github.com/user-attachments/assets/11f3dc0b-8574-4acb-8624-b7e6cedcc98d)
 
 > [!NOTE]
@@ -64,7 +64,7 @@ The block it relies on:
 
 
 ## Bypass Purchase Activation!
-![Purchase Activations](https://github.com/user-attachments/assets/84ed833a-73f8-4370-ad41-5e358967139f)
+![Purchase Activations](https://github.com/user-attachments/assets/379552b7-d629-4445-8330-fe01bca0975e)
 
 
 1. Go to **Online Store** > **Themes** select the new theme and **edit code** not **customize!!!**.
